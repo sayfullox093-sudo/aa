@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.tortburchak{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+   transform: translateX(200px) translateY(30px);
+   z-index: 1;
+
+}
+.tortburchak2{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(83, 215, 219, 0.514);
+     transform: translateX(100px) translateY(15px);
+     
+    
+}
+.tortburchak3{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(123, 207, 240, 0.185);
+     z-index:  2;
+
+}
+.engkota{
+    display: flex;
+    gap: 50px;
+ 
+}
+.box{
+    display: flex;
+    margin: 50px 50px;
+}
+.box2{
+    display: flex;
+    margin-top: 50px;
+}
+
+.dumalo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: rgb(65, 241, 109);
+   transform: translateX(200px) translateY(30px);
+   z-index: 1;
+
+}
+.dumalo2{
+    width: 200px;
+    height: 200px;
+     border-radius: 50%;
+    background-color: rgba(5, 248, 86, 0.514);
+     transform: translateX(100px) translateY(15px);
+     
+    
+}
+.dumalo3{
+    width: 200px;
+    height: 200px;
+     border-radius: 50%;
+    background-color: rgba(39, 233, 71, 0.185);
+     z-index:  2;
+
+}
+.box3{
+    display: flex;
+    margin-top: 50px;
+}
+.kvadrat{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(244, 30, 252);
+   transform: translateX(200px) translateY(30px);
+   z-index: 1;
+   border-radius: 40px;
+   
+
+}
+.kvadrat2{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(219, 83, 174, 0.514);
+     transform: translateX(100px) translateY(15px);
+      border-radius: 40px;
+    
+}
+.kvadrat3{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(230, 123, 240, 0.185);
+     z-index:  2;
+     border-radius: 40px;
+}
